@@ -12,7 +12,7 @@ body {
     text-align: center;
     background-color: #faeb36;
     padding: 20px;
-    overflow-y: hidden;
+    
   }
 
 
@@ -77,9 +77,9 @@ body {
 }
 .overlay3{
   position: absolute;
-  max-height: 200px;
+  max-height: 50px;
   left: 50px;
-  bottom: 100px;
+  bottom: 200px;
   
 }
 
